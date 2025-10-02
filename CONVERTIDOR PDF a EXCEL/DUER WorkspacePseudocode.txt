@@ -1,0 +1,16 @@
+// Pseudocódigo para el Workspace de PDFtoExcelDQ
+
+INICIO
+
+1. Mostrar interfaz principal al usuario.
+2. Permitir al usuario seleccionar un archivo PDF.
+3. Validar que el archivo seleccionado sea un PDF válido.
+4. Procesar el archivo PDF:
+    a. Extraer los datos relevantes del PDF.
+    b. Convertir los datos extraídos a formato Excel.
+5. Permitir al usuario elegir la ubicación para guardar el archivo Excel.
+6. Guardar el archivo Excel generado en la ubicación seleccionada.
+7. Notificar al usuario que la conversión fue exitosa.
+8. Ofrecer la opción de convertir otro archivo o salir.
+
+FIN
